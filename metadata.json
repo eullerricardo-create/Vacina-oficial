@@ -1,0 +1,7 @@
+{
+  "name": "Vacina QR Antifurto",
+  "description": "Uma plataforma moderna e intuitiva para segurança de veículos, com foco em motocicletas, facilitando a integração com instituições de segurança pública e privada.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
